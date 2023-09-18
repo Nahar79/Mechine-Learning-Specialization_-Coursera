@@ -1,1 +1,1 @@
-# ML-Coursera
+# Machine Learning Specialization Coursera
